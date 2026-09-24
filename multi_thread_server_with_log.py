@@ -19,7 +19,7 @@ def handle_client(c, addr):
         with c:
             while True:
                 data = c.recv(1024)
-                # 當 client 端退出時，recv 會返回空字串，這時就可以退出循環
+                # 當 client 端退出時，recv 會返回空位元組，這時就可以退出循環
                 if not data:
                     break
 

@@ -9,7 +9,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     with c:
         print(f"Connected by {addr}") # 印出客戶端的地址
         while True:
-            data = c.recv(1024) # 接收客戶端發送的數據，最大接收1024字節
+            data = c.recv(1024) # 接收客戶端發送的數據，最大接收 1024 Bytes (1KB)
             if not data:
                 break 
             c.sendall(data) # 回傳接收到的數據給客戶端
