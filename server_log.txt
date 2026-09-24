@@ -1,0 +1,24 @@
+[2026-09-24 14:32:55] Server is listening on port 1234...
+[2026-09-24 14:33:25] Connection from ('127.0.0.1', 65261)
+[2026-09-24 14:33:31] addr: ('127.0.0.1', 65261), data: 欸
+[2026-09-24 14:33:37] Connection from ('127.0.0.1', 65262)
+[2026-09-24 14:33:43] addr: ('127.0.0.1', 65262), data: 測試
+[2026-09-24 14:34:56] Server is listening on port 1234...
+[2026-09-24 14:35:02] Connection from ('127.0.0.1', 65331)
+[2026-09-24 14:35:02] addr: ('127.0.0.1', 65331), data: close log test
+[2026-09-24 14:35:02] Connection from ('127.0.0.1', 65331) closed
+[2026-09-24 14:38:48] Server is listening on port 1234...
+[2026-09-24 14:39:11] Connection from ('127.0.0.1', 65394)
+[2026-09-24 14:39:29] addr: ('127.0.0.1', 65394), data: 你好
+[2026-09-24 14:39:34] Connection from ('127.0.0.1', 65394) closed
+[2026-09-24 14:40:31] Server is listening on port 1234...
+[2026-09-24 14:40:48] Server stopped
+[2026-09-24 14:41:03] Server is listening on port 1234...
+[2026-09-24 14:41:03] Server stopped
+[2026-09-24 14:41:21] Server is listening on port 1234...
+[2026-09-24 14:41:22] Server stopped
+[2026-09-24 14:44:59] Server is listening on port 1234...
+[2026-09-24 14:45:20] Connection from ('127.0.0.1', 65522)
+[2026-09-24 14:45:27] addr: ('127.0.0.1', 65522), data: 我姓石
+[2026-09-24 14:45:31] Connection from ('127.0.0.1', 65522) closed
+[2026-09-24 14:45:36] Server stopped
